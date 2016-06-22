@@ -34,3 +34,4 @@ ehthumbs.db
 Thumbs.db
 target/*
 /bin/
+/target/
